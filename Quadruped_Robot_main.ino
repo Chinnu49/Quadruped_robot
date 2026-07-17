@@ -25,7 +25,7 @@ Servo servoKN4;
 const int servoB1pin = 42;
 const int servoB2pin = 41;
 const int servoB3pin = 40;
-const int servoB4pin = 39;// front 
+const int servoB4pin = 39;
 
 const int servoH1Pin = 4;   // Front Left Forward (servo 8)
 const int servoH2Pin = 5;   // Front Right Back 5 (servo 7)
